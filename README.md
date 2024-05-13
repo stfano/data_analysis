@@ -1,5 +1,6 @@
 # data_analysis
 유통 / 이커머스 데이터 분석 및 streamlit 이용한 대시보드 구현 프로젝트
+자세한 코드와 EDA 및 streamlit 코드는 파일 참고
 
 ## 시연영상
 
