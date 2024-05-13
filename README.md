@@ -4,6 +4,4 @@
 
 ## 시연영상
 
-## 시연 영상
-
-[![영상 썸네일](thumbnail.png)](dashboard.mov)
+[시연영상보기](dashboard.mov)
