@@ -4,4 +4,5 @@
 
 ## 시연영상
 
-[시연영상보기](dashboard.mov)
+https://github.com/stfano/data_analysis/assets/57385696/810f0100-302e-46f0-b22d-bfbec672a35c
+
